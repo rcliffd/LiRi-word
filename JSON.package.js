@@ -1,6 +1,6 @@
 
 {
-  "name": "liri-app",
+  "name": "liri-bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
